@@ -11,3 +11,6 @@ Project Workflow: Best practices for managing a data analytics project from star
 Real-World Applications: Examples of how to apply the learned skills in real-world scenarios, enhancing your professional portfolio.
 
 ![image](https://github.com/user-attachments/assets/1a86e1c8-b25d-4b35-b101-78aab366d706)
+
+**Youtube Link : **
+https://youtu.be/j4xlVLgsmNQ?si=Gpmbjv6-0guR5SaJ
